@@ -3,3 +3,6 @@ Uniiversidad Catolica - Sede Esmeraldas
 
 Redacccion del capitulo 1
 
+redaccion del capitulo 2
+    analisis del sistema
+    Diseño del sistema
