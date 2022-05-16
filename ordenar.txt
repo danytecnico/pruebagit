@@ -1,2 +1,7 @@
 Ingresar el vector
 ordenar en forma ascendente 
+
+codificacion en c++  
+funcion 1
+cuerpo de la funcion 1
+fin de la funcion 1
